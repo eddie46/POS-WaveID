@@ -1,0 +1,6 @@
+{
+  "name": "LedgerPO — Aplikasi Purchase Order Web",
+  "description": "Aplikasi pembuatan, pengelolaan, dan cetak dokumen Purchase Order (PO) sederhana berbasis web statis yang siap di-deploy ke GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
